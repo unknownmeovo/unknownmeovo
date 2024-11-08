@@ -14,6 +14,6 @@
 <br><br>
 ![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=unknownmeovo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
 <br><br>
-![Steark](https://github-readme-streak-stats.herokuapp.com/?user=unknownmeovo&count_private=true&theme=blue-green&title_color=00b3ff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unknownmeovo&theme=shades-of-purple)](https://git.io/streak-stats)
 
 
