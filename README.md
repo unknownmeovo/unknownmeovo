@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unkwonme
-- 👀 I’m interested in HTML, CSS, and Java Script
+- 👀 I’m interested in HTML, CSS, and JavaScript
 - 🌱 I’m currently learning Java Script
 - 😄 Pronouns: unknown
 - ⚡ Fun fact: I'm 14
