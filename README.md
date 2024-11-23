@@ -4,8 +4,8 @@
 - 😄 Pronouns: unknown
   <!-- - ⚡ Fun fact: -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://github.com/unkwonme) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknownmeo_0) 
+<!-- ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://github.com/unkwonme) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknownmeo_0) -->
 
 # Skills:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,cpp,bash,nodejs,npm,bootstrap,react,electron,firebase,cloudflare,git,github,gitlab,vscode,codepen,devto,discord,gmail,instagram,linux,debian)
