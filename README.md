@@ -15,5 +15,6 @@
 [![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=unknownmeovo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=unknownmeovo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unknownmeovo&theme=shades-of-purple)](https://github-readme-streak-stats.herokuapp.com?user=unknownmeovo&theme=shades-of-purple)
+![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=unknownmeovo&theme=github-compact&bg_color=282C35)
 
 
