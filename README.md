@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, and JavaScript
 - 🌱 I’m currently learning Java Script
 - 😄 Pronouns: unknown
-  <!-- - ⚡ Fun fact: -->
+  <!-- - ⚡ Fun fact: I use Linux BTW -->
 
 <!-- ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://github.com/unkwonme) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknownmeo_0) -->
