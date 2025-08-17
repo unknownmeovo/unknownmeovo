@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unkwonmeovo
-- 👀 I’m interested in HTML, CSS, and JavaScript
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: unknown
+- 👀 I’m interested in web Development
+- 🌱 I’m currently learning MySQL
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Debian BTW
 
 # My Contributions Graph:
