@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unkwonmeovo
-- 👀 I’m interested in web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MySQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Debian BTW
